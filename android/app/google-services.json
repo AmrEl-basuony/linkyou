@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217319093359",
+    "project_id": "linkyou-90142",
+    "storage_bucket": "linkyou-90142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217319093359:android:97b537f0c1aa661ddf499a",
+        "android_client_info": {
+          "package_name": "com.example.linkyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217319093359-tufa55p68ikuvvcjklo9ph7bah68llhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCASfsCCDvksmSoc1zFd0nYoDmfUbiNAfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217319093359-tufa55p68ikuvvcjklo9ph7bah68llhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

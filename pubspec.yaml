@@ -1,0 +1,34 @@
+name: linkyou
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  retrofit: ^4.1.0
+  flutter_bloc: ^8.1.5
+  get_it: ^7.7.0
+  dio: any
+  go_router: ^13.2.5
+  liquid_pull_to_refresh: ^3.0.1
+
+  google_sign_in: ^6.2.1
+  firebase_ui_oauth_google: ^1.3.2
+  firebase_auth: ^4.19.4
+  firebase_core: ^2.30.1
+  firebase_ui_auth: ^1.14.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  retrofit_generator: ^8.1.0
+  build_runner: ^2.4.9
+
+flutter:
+  uses-material-design: true
